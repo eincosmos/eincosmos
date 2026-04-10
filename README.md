@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=5020&pause=1000&center=true&vCenter=true&width=435&lines=++++++++++++++++++++++Hey+there%2C+devs+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=5020&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+devs+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 # I am Vishwa
 
