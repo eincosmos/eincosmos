@@ -13,8 +13,10 @@ I’m looking to collaborate on: open-source, dev tools, and interesting tech ex
 Intrested in Linux(**I USE ARCH BTW**), terminals, dev environments, and breaking/fixing stuff.
 
 
-- **📫 How to reach me**:
+**📫 How to reach me**:
+
             Gmail: [deveincosmos@gmail.com](mailto:deveincosmos@gmail.com)
-            LinkedIn: [Vihswa](https://www.linkedin.com/in/eincosmos)
+            
+            LinkedIn: [Vishwa](https://www.linkedin.com/in/eincosmos)
 
   
