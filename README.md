@@ -4,9 +4,9 @@
 # I am Vishwa
 
 
-Currently working on: experimenting with tech, and turning ideas into real projects
+Currently experimenting with tech, and turning ideas into real projects
 
-Currently learning: low-level computing, ai/ml, IoT, Cybersecurity, and how things actually work under the hood
+Learning: low-level computing, ai/ml, IoT, Cybersecurity, and how things actually work under the hood
 
 I’m looking to collaborate on: open-source, dev tools, and interesting tech experiments
 
@@ -14,9 +14,7 @@ Intrested in Linux(**I USE ARCH BTW**), terminals, dev environments, and breakin
 
 
 **📫 How to reach me**:
-
             Gmail: [deveincosmos@gmail.com](mailto:deveincosmos@gmail.com)
-            
             LinkedIn: [Vishwa](https://www.linkedin.com/in/eincosmos)
 
   
