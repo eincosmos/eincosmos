@@ -1,19 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&duration=5020&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+devs+%F0%9F%91%8B)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&duration=4000&pause=800&center=true&vCenter=true&width=600&lines=Hey+there,+devs+👋;I+build+systems,+not+just+projects;Welcome+to+my+GitHub" />
+</p>
 
-# I am Vishwa
+# I'm Vishwa
+---
+* Focused on **low-level computing, AI/ML, IoT, and cybersecurity**
+* I like understanding **how things actually work under the hood**
+* Turning ideas into **real, working systems**
+* Linux user (**Arch, btw.**) — comfortable living in the terminal
+* Strong interest in **debugging, reverse engineering, and system design**
+---
 
+## Working On
+* Embedded systems & hardware-based projects
+* AI + real-world applications
+* Security concepts and practical implementations
+* Developer tools & experimental builds
+---
 
-Currently experimenting with tech, and turning ideas into real projects
+## Collaboration
+I'm open to collaborating on:
+* Open-source projects
+* System-level tools
+* Interesting or challenging tech ideas
+---
 
-Learning: low-level computing, ai/ml, IoT, Cybersecurity, and how things actually work under the hood
+## 📫 Reach Me
+* 📧 [devincosmos@gmail.com](mailto:devincosmos@gmail.com)
+* 💼 LinkedIn:[Vishwa](www.linkedin.com/in/eincosmos)
+---
 
-I’m looking to collaborate on: open-source, dev tools, and interesting tech experiments
+Build. Break. Understand. Repeat.
+---
 
-Intrested in Linux(**I USE ARCH BTW**), terminals, dev environments, and breaking/fixing stuff.
-
-
-**📫 How to reach me**:
-            Gmail: [deveincosmos@gmail.com](mailto:deveincosmos@gmail.com)
-            LinkedIn: [Vishwa](https://www.linkedin.com/in/eincosmos)
 
   
