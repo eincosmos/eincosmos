@@ -10,27 +10,14 @@
 * Linux user (**Arch, btw.**) — comfortable living in the terminal
 * Strong interest in **debugging, reverse engineering, and system design**
 ---
-
-## Working On
-* Embedded systems & hardware-based projects
-* AI + real-world applications
-* Security concepts and practical implementations
-* Developer tools & experimental builds
----
-
-## Collaboration
-I'm open to collaborating on:
-* Open-source projects
-* System-level tools
-* Interesting or challenging tech ideas
----
-
 ## 📫 Reach Me
 * 📧 [devincosmos@gmail.com](mailto:devincosmos@gmail.com)
-* 💼 LinkedIn:[Vishwa](www.linkedin.com/in/eincosmos)
+* 💼 LinkedIn: [Vishwa](www.linkedin.com/in/eincosmos)
 ---
 
-Build. Break. Understand. Repeat.
+I design and build intelligent, secure, and high-performance digital solutions with a strong focus on system architecture, automation, and real-world impact.
+
+Break. Understand. Build. Repeat.
 ---
 
 
