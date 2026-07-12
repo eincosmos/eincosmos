@@ -4,10 +4,10 @@
 
 # I'm Vishwa
 ---
-* Focused on **low-level computing, AI/ML, IoT, and cybersecurity**
+* Focused on **low-level computing, AI/ML, IoT**
 * I like understanding **how things actually work under the hood**
 * Turning ideas into **real, working systems**
-* Linux user (**Arch, btw.**) — comfortable living in the terminal
+* Linux user (**Arch, btw.**) comfortable living in the terminal
 * Strong interest in **debugging, reverse engineering, and system design**
 ---
 ## 📫 Reach Me
